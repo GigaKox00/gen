@@ -17,7 +17,7 @@
     <a href="?ddd2">ddd2</a>
     <a href="?corn">corn</a>
     <a href="https://gigakox00.github.io/gen/">CLICK HERE</a>
-    </br>
+    <br />
     <button class="napierdalacz">
       <img src="https://cdn.mcdonalds.pl/uploads/20201125085906/big-mac.png" width="100" height="100" />
     </button>
