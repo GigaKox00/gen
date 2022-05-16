@@ -1,11 +1,11 @@
-  <body>
+<body>
     <h2><input type="checkbox" class="catboy" />Chce kupony</h2>
     <a href="https://gigakox00.github.io/gen/">CLICK HERE</a>
     <br />
-    <button class="napierdalacz">
+    <button class="repeater-start">
       <img src="https://cdn.mcdonalds.pl/uploads/20201125085906/big-mac.png" width="100" height="100" />
     </button>
-    <button class="napierdalacz-stop">
+    <button class="repeater-stop">
       <img
         src="https://karalne.pl/wp-content/uploads/2018/08/znak.png"
         width="100"
@@ -13,7 +13,8 @@
         alt=""
       />
     </button>
-    <input type="number" class="loyalityId" value="985" />
+  <br />
+    <input type="number" class="loyalityId" value="985" disabled/>
     <script>
       let coupons = [
         37125,
@@ -35,7 +36,7 @@
         53810,
       ];
       let intid = null;
-      document.querySelector(".napierdalacz").addEventListener("click", () => {
+      document.querySelector(".repeater-start").addEventListener("click", () => {
         if (intid) clearInterval(intid);
 
         intid = setInterval(() => {
@@ -50,7 +51,7 @@
         }, 1500);
       });
       document
-        .querySelector(".napierdalacz-stop")
+        .querySelector(".repeater-stop")
         .addEventListener("click", () => {
           if (intid) clearInterval(intid);
         });
@@ -92,4 +93,3 @@
       eruda.init();
     </script>
   </body>
-</html>
