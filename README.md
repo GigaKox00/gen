@@ -1,21 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <style>
-      * {
-        font-family: "Comic Sans MS", "Comic Sans";
-      }
-    </style>
-    <title>LOLOLOLO</title>
-  </head>
   <body>
-    <h1>uwu</h1>
     <h2><input type="checkbox" class="catboy" />Chce kupony</h2>
-    <a href="?ddd">ddd</a>
-    <a href="?ddd2">ddd2</a>
-    <a href="?corn">corn</a>
     <a href="https://gigakox00.github.io/gen/">CLICK HERE</a>
     <br />
     <button class="napierdalacz">
