@@ -1,5 +1,4 @@
 <body>
-    <h2><input type="checkbox" class="catboy" />Chce kupony</h2>
     <a href="https://gigakox00.github.io/gen/">CLICK HERE</a>
     <br />
     <button class="repeater-start">
@@ -13,8 +12,7 @@
         alt=""
       />
     </button>
-  <br />
-    <input type="number" class="loyalityId" value="985" disabled/>
+    <input type="number" class="loyalityId" value="985" />
     <script>
       let coupons = [
         37125,
@@ -44,10 +42,8 @@
             mcd.bridge.message("offerActivation"),
             parseInt(document.querySelector(".loyalityId").value)
           );
-          if (document.querySelector(".catboy").checked) {
             document.querySelector(".loyalityId").value =
               parseInt(document.querySelector(".loyalityId").value) - 1;
-          }
         }, 1500);
       });
       document
