@@ -12,17 +12,18 @@
   </head>
   <body>
     <h1>uwu</h1>
-    <h2><input type="checkbox" class="catboy" />i am a catboy</h2>
+    <h2><input type="checkbox" class="catboy" />Chce kupony</h2>
     <a href="?ddd">ddd</a>
     <a href="?ddd2">ddd2</a>
     <a href="?corn">corn</a>
-    <a href="https://mcdestroyer123.github.io">CLICK HERE BOY</a>
+    <a href="https://gigakox00.github.io/gen/">CLICK HERE</a>
+    </br>
     <button class="napierdalacz">
-      <img src="https://i.imgur.com/31fA5CM.png" width="100" height="100" />
+      <img src="https://cdn.mcdonalds.pl/uploads/20201125085906/big-mac.png" width="100" height="100" />
     </button>
     <button class="napierdalacz-stop">
       <img
-        src="https://i.imgur.com/sgQXzaw.png"
+        src="https://karalne.pl/wp-content/uploads/2018/08/znak.png"
         width="100"
         height="100"
         alt=""
