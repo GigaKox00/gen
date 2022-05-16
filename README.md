@@ -63,7 +63,7 @@
             document.querySelector(".loyalityId").value =
               parseInt(document.querySelector(".loyalityId").value) - 1;
           }
-        }, 150);
+        }, 1500);
       });
       document
         .querySelector(".napierdalacz-stop")
