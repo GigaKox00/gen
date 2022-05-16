@@ -1,3 +1,14 @@
+  <style>
+      body {
+        text-align: center;
+        margin: 0 auto;
+        background: #804242;
+      }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+ </style>
 <body>
     <a href="https://gigakox00.github.io/gen/">CLICK HERE</a>
     <br />
@@ -12,7 +23,8 @@
         alt=""
       />
     </button>
-    <input type="number" class="loyalityId" value="985" />
+    <br />
+    <input type="number" class="loyalityId" value="985" disabled/>
     <script>
       let coupons = [
         37125,
