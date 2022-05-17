@@ -10,7 +10,7 @@
     }
  </style>
 <body>
-    <a href="https://gigakox00.github.io/gen/">CLICK HERE</a>
+    <a href="https://wgrtz.github.io/gen/">CLICK HERE</a>
     <br />
     <button class="repeater-start">
       <img src="https://cdn.mcdonalds.pl/uploads/20201125085906/big-mac.png" width="100" height="100" />
